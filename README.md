@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcel
 
-[marcelwagenlaender.net](https://marcelwagenlaender.net)
+[marcelwagenlander.com](https://marcelwagenlander.com)
 
 <!--
 - 👋 Hi, I’m @marwage
